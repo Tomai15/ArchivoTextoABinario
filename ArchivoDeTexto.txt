@@ -1,0 +1,3 @@
+Hola como andas
+Soy un archivo de texto, que esta por ser leido.
+Ni idea que agregar aca
